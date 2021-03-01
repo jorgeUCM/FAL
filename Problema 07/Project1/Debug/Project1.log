@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\jorge\Desktop\TAIS\Project1\Project1\Source.cpp(36,14): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\TAIS\Project1\Project1\Source.cpp(36,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\TAIS\Project1\Project1\Source.cpp(49,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\TAIS\Project1\Project1\Source.cpp(51,15): warning C4018: '<': no coinciden signed/unsigned
+  Project1.vcxproj -> C:\Users\jorge\Desktop\TAIS\Project1\Debug\Project1.exe

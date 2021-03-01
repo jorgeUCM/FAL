@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\jorge\Desktop\FAL\Juez\Problema 06\Problema 06\Source.cpp(17,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\FAL\Juez\Problema 06\Problema 06\Source.cpp(35,23): warning C4018: '<': no coinciden signed/unsigned
+  Problema 06.vcxproj -> C:\Users\jorge\Desktop\FAL\Juez\Problema 06\Debug\Problema 06.exe
