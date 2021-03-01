@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\jorge\Desktop\FAL\Juez\Problema 13\Problema 13\Problema 13\Source.cpp(13,16): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
-C:\Users\jorge\Desktop\FAL\Juez\Problema 13\Problema 13\Problema 13\Source.cpp(24,20): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
-C:\Users\jorge\Desktop\FAL\Juez\Problema 13\Problema 13\Problema 13\Source.cpp(39,25): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
-  Problema 13.vcxproj -> C:\Users\jorge\Desktop\FAL\Juez\Problema 13\Problema 13\Debug\Problema 13.exe
