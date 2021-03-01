@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jorge\Desktop\FAL\Juez\Problema 17\Problema 17\Problema 17\Source.cpp(77,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\FAL\Juez\Problema 17\Problema 17\Problema 17\Source.cpp(54,23): warning C4101: 'alturaPiso': variable local sin referencia
+C:\Users\jorge\Desktop\FAL\Juez\Problema 17\Problema 17\Problema 17\Source.cpp(54,35): warning C4101: 'alturaEdificio': variable local sin referencia
+  Problema 17.vcxproj -> C:\Users\jorge\Desktop\FAL\Juez\Problema 17\Problema 17\Debug\Problema 17.exe
