@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Problema 54A\Source.cpp(21,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Problema 54A\Source.cpp(29,11): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Problema 54A\Source.cpp(36,8): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Problema 54A\Source.cpp(37,115): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Problema 54A\Source.cpp(83,11): warning C4018: '<': no coinciden signed/unsigned
+  Problema 54A.vcxproj -> C:\Users\jorge\Desktop\FAL\Juez\Problema 54A\Debug\Problema 54A.exe
